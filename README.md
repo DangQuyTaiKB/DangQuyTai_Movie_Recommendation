@@ -7,4 +7,4 @@ The project will use TasteDive to get related movies for the movies that the use
 
 To get the API Key of TasteDive and OMDb, you can log in to the homepage of the two websites above. Register an account and get a free Key, or you can also use the paid version to be able to use more service.
 
-My project is inspired by the course "Foundations of Python Programming" and the RESTful API part of that course.
+My project is inspired by the course "Foundations of Python Programming" in Cousera and the RESTful API part of that course.
